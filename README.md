@@ -6,7 +6,7 @@ Software Engineering student focused on **Data Analytics, Business Intelligence,
 
 I am building practical projects to transform data into meaningful insights, improve reporting, and explore how technology and AI can make business processes more efficient.
 
----
+
 
 ## 🛠️ Skills & Tools
 
@@ -38,7 +38,7 @@ I am building practical projects to transform data into meaningful insights, imp
 * Git
 * GitHub
 
----
+
 
 ## 📊 Featured Project
 
@@ -50,7 +50,7 @@ A data analytics project focused on analyzing customer portfolio information, id
 
 🔗 [View Project](./projects/customer-portfolio-analysis)
 
----
+
 
 ## 🚀 Currently Learning
 
@@ -60,14 +60,14 @@ A data analytics project focused on analyzing customer portfolio information, id
 * AI & Business Automation
 * n8n & API Integrations
 
----
+
 
 ## 🎓 Education
 
 **Software Engineering**
 Universidad Abierta para Adultos (UAPA)
 
----
+
 
 ## 🎯 Career Interests
 
@@ -80,7 +80,7 @@ I am interested in opportunities related to:
 * Business Analyst
 * Data & Process Automation
 
----
+
 
 ## 📂 Portfolio
 
@@ -88,14 +88,14 @@ This GitHub profile is where I document my learning journey and build practical 
 
 More projects coming soon.
 
----
+
 
 ## 📫 Connect With Me
 
 * GitHub: [@DanielaMateo](https://github.com/DanielaMateo)
 * LinkedIn: Add your LinkedIn profile here
 
----
+
 
 ### 💡 My Goal
 
