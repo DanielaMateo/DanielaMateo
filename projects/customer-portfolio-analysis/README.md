@@ -1,63 +1,146 @@
 # 📊 Customer Portfolio Analysis
 
-## About the Project
+## 📌 Project Overview
 
-This is one of my first projects focused on putting into practice what I am learning about Data Analysis and Business Intelligence.
+This project focuses on analyzing a **customer portfolio** to identify payment behavior, portfolio performance, overdue accounts, and customer segments that may require greater attention.
 
-The idea is to work with a customer portfolio and use data to better understand customer behavior, identify overdue payments, and find useful information that can support better business decisions.
+The objective is to transform raw customer data into **clear business insights** that can support decision-making and portfolio management.
 
-## 🎯 What I Want to Achieve
-
-With this project, I want to learn how to turn raw data into information that is easy to understand and useful.
-
-Some of the questions I want to answer are:
-
-* How many customers are in the portfolio?
-* What is the total portfolio amount?
-* How many customers have overdue payments?
-* What percentage of the portfolio is overdue?
-* Which customers or segments need more attention?
-* How is the portfolio performing over time?
-
-## 🛠️ Tools
-
-* Excel
-* SQL
-* Power BI
-* DAX
-
-## 📚 What I Am Practicing
-
-This project allows me to practice different stages of the data analysis process:
-
-* Data cleaning and organization
-* SQL queries and analysis
-* KPI creation
-* Customer segmentation
-* Power BI dashboards
-* DAX measures
-
-## 📈 Expected Result
-
-My goal is to build an interactive dashboard that provides a simple view of the portfolio and makes it easier to identify important information without having to review the data manually.
-
-I also want to document what I learn throughout the process and improve the project step by step.
-
-## 🚀 Next Steps
-
-* Prepare and clean the data
-* Create the database
-* Build SQL queries
-* Create the Power BI dashboard
-* Analyze the results
-* Document the main findings
+This project is part of my Data Analytics and Business Intelligence portfolio.
 
 ---
 
-### 👩‍💻 About Me
+## 🎯 Business Questions
 
-I am a Software Engineering student currently developing my skills in **Data & BI, SQL, Power BI, and AI Automation**.
+The analysis is designed to answer questions such as:
 
-This project is part of my learning journey and my professional portfolio.
+* How many customers are in the portfolio?
+* What is the total portfolio amount?
+* How much of the portfolio is overdue?
+* What percentage of customers have overdue payments?
+* Which customer segments represent the highest risk?
+* Which customers require greater attention?
+* How does portfolio performance change over time?
+
+---
+
+## 🛠️ Technologies & Tools
+
+| Tool                     | Purpose                                      |
+| ------------------------ | -------------------------------------------- |
+| **Excel**                | Data preparation and initial analysis        |
+| **SQL**                  | Data querying and analysis                   |
+| **Microsoft SQL Server** | Database management                          |
+| **Power BI**             | Data visualization and dashboard development |
+| **DAX**                  | KPI calculations and analytical measures     |
+
+---
+
+## 🔄 Data Analysis Process
+
+The project follows a practical data analysis workflow:
+
+**1. Data Preparation**
+Clean, organize, and validate the source data.
+
+**2. Database Creation**
+Structure the information in Microsoft SQL Server.
+
+**3. SQL Analysis**
+Create queries to explore the portfolio and identify relevant patterns.
+
+**4. KPI Development**
+Calculate key indicators related to customers, balances, payments, and overdue accounts.
+
+**5. Customer Segmentation**
+Group customers according to relevant characteristics and portfolio behavior.
+
+**6. Power BI Dashboard**
+Create an interactive dashboard to visualize the most important indicators.
+
+**7. Business Insights**
+Interpret the results and identify areas that may require attention.
+
+---
+
+## 📈 Key KPIs
+
+The dashboard will focus on indicators such as:
+
+* Total Customers
+* Total Portfolio
+* Total Outstanding Balance
+* Overdue Balance
+* Overdue Customers
+* Overdue Rate
+* Portfolio Distribution
+* Customer Segments
+
+---
+
+## 📊 Dashboard
+
+> 🚧 **In progress**
+
+The Power BI dashboard will be added here once the analysis and visualization stages are completed.
+
+---
+
+## 💡 Expected Business Value
+
+The purpose of this analysis is to make portfolio information easier to understand and help identify:
+
+* Customers requiring follow-up
+* Overdue payment patterns
+* High-value segments
+* Portfolio concentration
+* Opportunities for better portfolio management
+
+---
+
+## 📂 Project Structure
+
+```text
+customer-portfolio-analysis/
+│
+├── README.md
+├── data/
+├── sql/
+├── powerbi/
+└── docs/
+```
+
+> Additional files will be added as the project develops.
+
+---
+
+## 🚀 Project Status
+
+**Status:** 🟡 In Progress
+
+### Completed
+
+* [x] Project definition
+* [x] Business questions
+* [x] Analysis plan
+* [x] Tools selection
+
+### In Progress
+
+* [ ] Data preparation
+* [ ] Database creation
+* [ ] SQL analysis
+* [ ] KPI development
+* [ ] Customer segmentation
+* [ ] Power BI dashboard
+* [ ] Business insights
+
+---
+
+## 👩‍💻 About
+
+I am a Software Engineering student developing my skills in **Data Analytics, Business Intelligence, SQL, Power BI, and Automation**.
+
+This project represents my practical learning process and is being developed step by step as part of my professional portfolio.
 
 **Learning → Practicing → Building → Improving.**
